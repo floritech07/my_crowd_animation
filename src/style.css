@@ -1,0 +1,14 @@
+
+/* CSS Coding Part */
+
+html, body {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
+
+#canvas {
+  width: 100%;
+  height: 100%;
+}
